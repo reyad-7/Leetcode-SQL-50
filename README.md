@@ -1,11 +1,7 @@
-# LeetCode
+# What’s Inside?
 
-This repository contains my solutions to LeetCode problems.
+- Concise Solutions: Each query is crafted for clarity and efficiency, making it easy to follow and apply.
 
-Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+- Detailed Explanations: Each solution includes comments explaining the logic step-by-step, helping you grasp the concepts and techniques.
 
- ## Made by 
- - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
- - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
-
- Happy coding! 🚀
+Whether you're tackling a tough problem or exploring new approaches, I hope this resource will be valuable to you. I’d love to hear your thoughts, so feel free to check it out and share your feedback!
